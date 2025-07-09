@@ -140,11 +140,16 @@ body {
 .donate-btn {
     background-color: white;
     color: #2c7a5a;
+    border: none;
     padding: 8px 20px;
     border-radius: 50px;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
+.donate-btn a{
+    color: #2c7a5a;
+    font-size: 15px;
+}
 .mobile-menu {
     display: none;
     background-color: #276749;
